@@ -42,6 +42,7 @@ Anchor boxes are a set of predefined boxes with different aspect ratios used to 
 ### Scenario and Evaluation methods
 - Training with all dataset in 5 times
 - Training process:
+  
    	      Accuracy	  Precision	  Recall	  F1-Score
   
    1	    85.00%	    92.70%	    91.10%	  91.89%
