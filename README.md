@@ -55,7 +55,7 @@ Anchor boxes are a set of predefined boxes with different aspect ratios used to 
   
           90.00%	    91.20%	    89.60%	  90.39%
   
-Averaged	85.80%	    91.65%	    90.84%	  91.24%
+Averaged:	85.80%,	    91.65%,	    90.84%,	  91.24%
 
 
 ### Results
