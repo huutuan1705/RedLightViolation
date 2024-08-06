@@ -43,12 +43,19 @@ Anchor boxes are a set of predefined boxes with different aspect ratios used to 
 - Training with all dataset in 5 times
 - Training process:
    	      Accuracy	  Precision	  Recall	  F1-Score
+  
    1	    85.00%	    92.70%	    91.10%	  91.89%
+  
    2	    86.68%	    92.52%	    91.21%	  91.86%
+  
    3    	 83.33%	    90.70%	    92.27%	  91.47%
+  
    4	    84.00%	    91.15%	    90.02%	  90.58%
+  
    5	    90.00%	    91.20%	    89.60%	  90.39%
+  
 Averaged	85.80%	    91.65%	    90.84%	  91.24%
+
 
 ### Results
 ![image](https://github.com/user-attachments/assets/f36154ba-d857-424b-9912-5ad24a743f81)
@@ -85,7 +92,7 @@ Averaged	85.80%	    91.65%	    90.84%	  91.24%
   
 ![image](https://github.com/user-attachments/assets/4a434146-6599-4635-b972-7303b94719c2)
 
-- Usser can click “Save image and video” if they want save data in database and website will be reloaded.
+- Usser can click “SAVE VIDEO AND IMAGE” if they want save data in database and website will be reloaded.
 
 
 
